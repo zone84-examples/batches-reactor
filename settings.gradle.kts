@@ -1,0 +1,2 @@
+rootProject.name = "batches-reactor"
+
